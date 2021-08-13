@@ -18,11 +18,11 @@ This program is written in Python and allows the user to translate a message to 
     ```
 3. Change permissions:
     ```sh
-    chmod 777 MorseCodeTranslator.py
+    chmod 777 morseCodeTranslator.py
     ```
 4. Run the program:
     ```sh
-    python3 MorseCodeTranslator.py
+    python3 morseCodeTranslator.py
     ```
 
 ## Usage
